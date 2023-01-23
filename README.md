@@ -33,7 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Card Produto e um pagina onde voce consegue ver um produto em 360 graus.
+O Card Produto e um pagina onde voce consegue adicionar o produto e ver o produto em 360 graus.
 
 - [Visite o projeto online](https://github.com/matheussouza-ap/card-produto)
 
